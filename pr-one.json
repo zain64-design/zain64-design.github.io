@@ -1,5 +1,4 @@
-[
-    {
+{
         "id": 1,
         "name": "Sebluck Maicih",
         "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGZvb2R8ZW58MHx8MHx8&w=1000&q=80", 
@@ -7,4 +6,3 @@
         "oldPrice": "$70",
         "ratings": 4.5
     }
-]
